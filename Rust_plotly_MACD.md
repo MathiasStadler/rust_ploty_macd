@@ -11,4 +11,3 @@ cargo add plotly
 ## test out follow [creates](https://crates.io/search?q=yfinance)
 
 ## crete new jupyter notebook via vscode command palette
-

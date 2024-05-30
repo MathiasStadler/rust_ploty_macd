@@ -1,7 +1,17 @@
 {
     "cSpell.words": [
+        "iterrows",
         "MACD",
+        "OHLC",
         "plotly",
+        "rangebreaks",
+        "rangeslider",
+        "showgrid",
+        "showlegend",
+        "stochastics",
+        "xaxes",
+        "xaxis",
+        "yaxes",
         "yfinance"
     ]
 }

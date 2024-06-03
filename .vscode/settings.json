@@ -6,6 +6,7 @@
         "iterrows",
         "MACD",
         "OHLC",
+        "Percap",
         "plotly",
         "rangebreaks",
         "rangeslider",

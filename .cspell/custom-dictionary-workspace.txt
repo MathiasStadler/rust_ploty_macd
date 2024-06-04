@@ -1,4 +1,6 @@
 # Custom Dictionary Words
 DATAFRAME
+finplot
 Nachhaltigkeit
+ochl
 TSLA

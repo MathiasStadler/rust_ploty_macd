@@ -1,6 +1,9 @@
 # Custom Dictionary Words
 DATAFRAME
 finplot
+investpy
+lxml
 Nachhaltigkeit
 ochl
+stooq
 TSLA

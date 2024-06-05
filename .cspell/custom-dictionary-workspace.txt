@@ -2,6 +2,7 @@
 DATAFRAME
 finplot
 investpy
+ISIN
 lxml
 Nachhaltigkeit
 ochl

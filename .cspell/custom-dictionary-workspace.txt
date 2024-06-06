@@ -1,6 +1,7 @@
 # Custom Dictionary Words
 DATAFRAME
 finplot
+interactiveshell
 investpy
 ISIN
 lxml

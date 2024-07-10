@@ -9,3 +9,4 @@ Nachhaltigkeit
 ochl
 stooq
 TSLA
+pandas

@@ -5,9 +5,11 @@ finplot
 interactiveshell
 investpy
 ISIN
+kaleido
 lxml
 Nachhaltigkeit
 ochl
 pandas
+ploty
 stooq
 TSLA

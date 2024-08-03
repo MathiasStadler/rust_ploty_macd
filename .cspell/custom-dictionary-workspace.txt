@@ -1,5 +1,6 @@
 # Custom Dictionary Words
 DATAFRAME
+evcxr
 finplot
 interactiveshell
 investpy
@@ -7,6 +8,6 @@ ISIN
 lxml
 Nachhaltigkeit
 ochl
+pandas
 stooq
 TSLA
-pandas

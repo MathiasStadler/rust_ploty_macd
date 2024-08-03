@@ -15,6 +15,7 @@
         "plotly",
         "rangebreaks",
         "rangeslider",
+        "rustc",
         "showgrid",
         "showlegend",
         "stochastics",
